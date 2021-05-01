@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-You can find the code to my personal website nilsgarland.com from the repository this file is linked to nilsgarland/nilsgarland!
-
+Some info that might interest you:
 - 🔭 I’m currently working on Med24, Velvet, nilsgarland.com, and a super secret app!
 - 🌱 I’m currently learning algorithms and expanding my knowledge on data structures.
 - 👯 I’m looking to collaborate, DM me!
